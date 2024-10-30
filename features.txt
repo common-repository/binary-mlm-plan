@@ -1,0 +1,49 @@
+-------- It is an Binary Mlm Plan --------------------
+There ara many Features in this Plan.
+Frontend Features
+1. Registration -> User can registration here.
+2. Downlines -> User can see the number of childs in his downlines.
+3. Account-Display-> Display the User Information as
+  a> User Personal Details.
+  b> Earning Details.
+  c> Left Downlines deatils
+  d> right Downlines details
+
+Backend Features
+1. first of all first user register as root or admin of this system.
+2. admin give settings such as
+   a. general setting.
+   b. eligibility setting.
+   c. payout setting.
+3.Payout Run. it is run then user get the every type of commission such as refrral commission.
+4. User Reports. Admin display the users information.
+5. Payout Report. Admin display or check payout report of every users.
+
+
+Download [Binary MLM Plan with WooCommerce Pro](https://www.mlmtrees.com/product/binary-mlm-ecommerce/)
+
+=== Features of Binary Mlm Plan with WooCommerce Pro ===
+1. Dashboard 
+2. Genealogy Tree
+3. Member Management
+4. E-Wallet
+5. Earning commissions and bonuses
+6. Affiliate or Direct Referrals Commission
+7. Join Commission
+8. Pair  Commission
+9. Company Commission
+10. Regular Commission
+11. Royalty Bonus
+12. Selling Products
+13. User Dashnoard
+14. Point Value
+15. Downlines
+16. Registration
+17. Login
+18. User Profile
+19. Withdrawal
+20. Run Payout
+21. User Report
+22. Commissions and Bonuses Settings
+
+Free - Support 24x7
